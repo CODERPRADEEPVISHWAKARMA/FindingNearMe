@@ -1,5 +1,52 @@
+URLs & Account Ids
+
+GitHub URL: https://github.com/smartinternz02/SPSGP-80479-Virtual-Internship---AndroidApplication-Development-Using-Kotlin
+
+project source code link https://github.com/CODERPRADEEPVISHWAKARMA/FindingNearMe
+
+Smart Internz Registered ID: prog.pradeepvishwakarma@gmail.com
+
+Demo Link: https://www.youtube.com/embed/klpU1UcBQHw
 
 
+
+Acknowledgements
+
+I have taken much efforts in this project. However, it would not have been possible
+without the kind support and help of many individuals and organizations. I would like to
+extend my sincere thanks to all of them.
+I am highly indebted to SMARTINTERNZ (Experiential Learning & Remote Externship
+Platform to bring academia & industry very close for a common goal of talent creation)
+for their guidance and constant supervision as well as for providing necessary
+information regarding the project & also for their support in completing the project. I
+would like to express my gratitude towards member of (Smart Internz) for their kind cooperation and encouragement which help me in completion of this project.
+I would like to express my special gratitude and thanks to industry persons for giving
+me such attention and time.
+My thanks and appreciations also go to people who have willingly helped me out with
+their abilities.
+9.1 Reflection Notes
+I thoroughly enjoyed my internship and had a very valuable experience under my belt. I
+know this will help when looking for jobs and needing references.
+I know that practical experience is the best, and internships give students that hands-on
+experience they need. I feel that quality internships are essential to develop key skills
+that we can't get in a classroom. Skills such as multitasking, communicating, learning to
+deal with diversity, and dealing with deadlines are different when you are working for
+someone else, not yourself like everyone do it college. Internships are also a great way
+to network with people in the industry. Our mentor and co-workers were great about
+giving us contacts and referring us to open positions in the industry.
+I have learned that stressing over little things will not get us anywhere. I have learned to
+work well as a team and that without my counter parts the work would not get done.
+Another aspect that I learned throughout the internship is to never be afraid to ask lots
+of questions. By asking questions we get answers.\
+10.References
+● https://www.geeksforgeeks.org/introduction-to-kotlin/
+● https://github.com/smartinternz02/SPSGP-80479-Virtual-Internship---Android-ApplicationDevelopment-Using-Kotlin
+●
+● https://www.youtube.com/embed/Oek2VE2ozzE
+● https://cloud.google.com/
+● https://www.youtube.com/embed/NfF2_tr35SU
+● https://www.youtube.com/embed/F3ZM4rW9bFk
+● https://www.youtube.com/embed/klpU1UcBQHw
 
  An Android Development Project Report  
 On
