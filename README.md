@@ -1,4 +1,4 @@
-URLs & Account Ids
+# URLs & Account Ids
 
 
 https://bit.ly/m/prog_pradeep 
@@ -12,6 +12,58 @@ Smart Internz Registered ID: prog.pradeepvishwakarma@gmail.com
 Demo Link: https://www.youtube.com/embed/klpU1UcBQHw
 
 [SPSGP-80479-Virtual Internship - Android Application Development Using Kotlin.pdf](https://github.com/CODERPRADEEPVISHWAKARMA/FindingNearMe/files/9641079/SPSGP-80479-Virtual.Internship.-.Android.Application.Development.Using.Kotlin.pdf)
+
+
+
+# ScreenShots  Finding  Near business view  
+
+
+
+# Mobile View
+
+![1664100760968](https://user-images.githubusercontent.com/83287645/192545901-7c37f6e2-1dc5-4205-a455-674d08ebab00.png) 
+
+ # RESTAURANT VIEW
+
+
+![RESTAURANT ](https://user-images.githubusercontent.com/83287645/192544077-20564a50-756a-40d4-8f4c-cf78013ed1f6.png)
+
+
+
+# GAS STATION VIEW
+
+![GAS STATION VIEW](https://user-images.githubusercontent.com/83287645/192545840-3f0e2cde-05fa-4f6f-a381-c64c79127eae.png)
+
+ # Store View 
+![storeview ](https://user-images.githubusercontent.com/83287645/192545872-ef888271-e7ad-43a2-a080-0a15b060bf2a.png)
+
+
+   
+                                                              
+
+
+                                                                             
+
+					
+                                                               
+
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            
+	
 
 
 Acknowledgements
@@ -59,7 +111,7 @@ On
 
      SUBMITTED BY:    
 
-PRADEEP RAJESH VISHWAKARMA 
+# PRADEEP RAJESH VISHWAKARMA 
 
                             UNDER
 
@@ -70,7 +122,7 @@ Virtual Internship Program
 ANDROID BASICS IN KOTLIN
 
 
-                                     SPS_APL_20220094556
+# SPS_APL_20220094556
 
 
 
@@ -108,7 +160,7 @@ A mobile app is built where the user can search for his nearby locations based o
 10.References.
 
 
-1.1  INTRODUCTION
+# 1.1  INTRODUCTION
 
 
                      Introduction to Android Development
@@ -124,7 +176,7 @@ A mobile app is built where the user can search for his nearby locations based o
 
 
 
-Features of Android
+# Features of Android
 
 Android is a powerful open-source operating system that open-source provides immense features and some of these are listed below.
 
@@ -255,7 +307,7 @@ As the development and testing consume more time, the cost of the application ma
 
 
 
-What does Kotlin code look like?
+# What does Kotlin code look like?
 
 Apps built with Kotlin
 Many apps are already built with Kotlin—from the hottest startups to Fortune 500 companies. Learn how Kotlin has helped their teams become more productive and write higher quality apps.
@@ -292,7 +344,7 @@ A mobile app is built where the user can search for his nearby locations based o
 
 
 
-                                                 Software designing View 
+# Software designing View 
 
 
 Learn to use Google Maps Platform Maps and Places APIs to build a local business search, which geolocates the user and shows interesting places nearby. The app integrates geolocation, Place Details, Place Photos, and more.
@@ -305,50 +357,10 @@ An API key for the project above.
 
 
 
-4.EXPERIMENTAL INVESTIGATIONS.
+# 4.EXPERIMENTAL INVESTIGATIONS.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-           
-                 Mobile View                                             Finding  Near business view  
-
-
-
-                                                                             
-
-					
-                                                                 Store View 
-
-					
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                     GAS STATION VIEW                                                        RESTAURANT VIEW
-	
 
 
 5 . FLOWCHART
@@ -402,7 +414,7 @@ I have learned that stressing over little things will not get us anywhere. I hav
 
 
 
-10.References
+# 10.References
 https://www.geeksforgeeks.org/introduction-to-kotlin/
 https://github.com/smartinternz02/SPSGP-80479-Virtual-Internship---Android-Application-Development-Using-Kotlin
 
